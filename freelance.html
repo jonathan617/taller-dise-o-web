@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/Style1.css">
+    <title>Document</title>
+</head>
+<body>
+    <header id=hea class="head">
+        <div class="contenedortl">
+        <h1 class="titulop"></h1>
+            <h2 class="lema"></h2>
+            <div class="logo"></div>
+            
+        </div> 
+        <nav>
+            <ul>
+                <li><a href="contactos1.html">Contactenos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main">
+        
+        <section>
+            <article class="cont">
+             <p class="robot">Diseño web</p>
+             <p class="robotex">El diseño de la web podrá tener todo lo que necesites y a tu gusto. 
+                 El diseño lo eliges tu, si no te gusta el que te presente hacemos otro. 
+                 Siempre nos iremos guiando por una base de referencia de tu sector o competencia.
+                
+                 Tipos de diseño web que puedes necesitar:
+
+                Páginas web simple (corporativas),
+                Diseño de proyectos web completos,
+                Tiendas online,
+                Catálogo de productos,
+                Blog,
+                Landing Page (Página de venta o suscripción).</p>
+            </article>
+
+            <article class="cont1">
+                <p class="program">Programación web</p>
+             <p class="programweb">Tu página o proyecto podrá tener todo lo que necesites, la desarrollo desde cero a medida, con todas las necesidades que tenga tu empresa para vender y funcionar en internet.
+                
+                Tipos de desarrollo web que puedes necesitar:
+
+                Aplicaciones web a medida,
+                Proyectos web completos,
+                Tiendas online,
+                Catálogo de productos,
+                Blog,
+                Formularios o encuestas.</p>
+            </article>
+
+            <article class="cont2">
+                <p class="prosicion">Posicionamiento en Buscadores - SEO</p>
+             <p class="posiciont">Si tu página web es nueva o no tiene visitas diarias de posibles clientes, para empezar a conseguir esas visitas y que se conviertan a ventas, lo más conveniente es invertir dinero en marketing online. El SEO o posicionamiento web no deberías de olvidarlo nunca en tu página, un buen posicionamiento aumentará tus visitas y beneficios.
+                Pero como al principio el SEO es lento y puede tardar entre 4 y 12 meses en conseguirse según la competencia y el sector, también es conveniente empezar a generar ventas con el Pago por Click (anuncios en google o Facebook por ejemplo).
+                
+                La primera página de resultados de Google es garantía de ventas y nuevos clientes, pero no es nada fácil alcanzarla.
+                
+                Acciones que realizo para conseguir SEO en tu página:
+                
+                Optimización del código de la web: etiquetas h1, h2 y metadescripciones en todas las páginas del sitio.
+                Reestructuración de las URLs.
+                Revisión de los códigos internos de las imágenes.
+                Elección de palabras claves a posicionar y análisis de competencia.
+                Mejora de la densidad de palabra clave.
+                Mejora de la velocidad de carga de la web.
+                Configuración de Google Webmaster Tools y envío de sitemap.
+                Creación de páginas de aterrizaje sobre un tema SEO.</p>
+            </article>
+            
+        </section>
+       
+    </main>
+</body>
+</html>
