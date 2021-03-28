@@ -1,0 +1,78 @@
+fieldset{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: brown;
+    border: 0;
+}
+.legend{
+    color:azure;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-decoration-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+[type="text"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid burlywood;
+}
+[type="number"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid burlywood;
+    
+}
+[type="email"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid burlywood;
+}
+[type="submit"]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0;
+    
+}
+.pais{
+    display: block;
+    margin-top: 5px;
+}
+label{
+    margin: auto;
+    background-color: 0;
+    color: #fff;
+}
+[type="radio"]{
+    color: #fff;
+}
+.contradio{
+    background-color: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 5px;
+}

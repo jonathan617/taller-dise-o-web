@@ -1,0 +1,97 @@
+body{
+    background-image: url("../imagenes/woman-1446557_1280.jpg");
+    background-size: cover;
+}
+head{
+    background-color:crimson;
+    height: 100px;
+}
+.header{
+    background-color:darkgreen;
+    height: 10px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    
+}
+#hea{
+    background-color:lightblue;
+    height: 80px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.contenedortl{
+    background-image: url("../imagenes/Jonlancer.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 43%;
+    height: 75px;
+    margin-top: 5px;
+    float: left;
+}
+.logo{
+    background-image: url("../imagenes/Logo\ jonlancer.png");
+    background-size: contain;
+    width: 80px;
+    height: 80px;
+    margin-left: 200px;
+    margin-top: 3px;
+}
+.titulop{
+background-color:0;
+color: #fff;
+font-size: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+float: left;
+margin-right: 10px;
+position: absolute;
+
+}
+.lema{
+    background-color:0;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    float: left;
+    margin-right: 10px;
+    margin-top: 60px;
+    position: absolute;
+    background-size: contain;  
+}
+.main{
+    
+    background-color: 0;
+}
+.cont{
+    background-color:blue;
+    color: #fff;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 400px;
+}
+nav{
+    background-color:0;
+    float:right;
+}
+ul{
+    background-color:0;
+}
+li{
+    background-color:0;
+    margin-top: 5px;
+    display: inline;
+}
+a{
+    color:azure;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-right: 60px;
+}
